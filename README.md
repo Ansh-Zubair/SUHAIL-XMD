@@ -49,7 +49,7 @@
 --------
 5.  #### DEPLOY IN REPLIT
 
-   <a href='https://repl.it/github/GlobalTechInfo/SUHAIL-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+   <a href='https://repl.it/github/Ansh-Zubair/SUHAIL-XMD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------
 6.  #### DEPLOY IN KOYEB
